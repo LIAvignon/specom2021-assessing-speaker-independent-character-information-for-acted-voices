@@ -1,0 +1,18 @@
+Accuracy: 0.8646
+F1-scores for each classes:
+global_anderson          : 0.9143
+global_hackett           : 0.9730
+global_illusive_man      : 0.9412
+global_wreav             : 0.8485
+global_wrex              : 0.8333
+global_zaeed             : 0.8750
+hench_ashley             : 0.8485
+hench_edi                : 0.8125
+hench_garrus             : 0.9231
+hench_kaidan             : 0.8780
+hench_liara              : 0.7619
+hench_marine             : 0.8095
+hench_prothean           : 0.8750
+hench_tali               : 0.8824
+player_f                 : 0.7500
+player_m                 : 0.9412

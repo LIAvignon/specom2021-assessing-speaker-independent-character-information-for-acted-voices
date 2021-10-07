@@ -1,0 +1,18 @@
+F1-scores for each classes:
+global_anderson          : 0.8824
+global_hackett           : 0.8889
+global_illusive_man      : 0.9714
+global_wreav             : 0.9000
+global_wrex              : 0.9474
+global_zaeed             : 0.9730
+hench_ashley             : 0.7429
+hench_edi                : 0.8485
+hench_garrus             : 0.8235
+hench_kaidan             : 0.8571
+hench_liara              : 0.9730
+hench_marine             : 0.8824
+hench_prothean           : 0.8649
+hench_tali               : 0.8421
+player_f                 : 0.7778
+player_m                 : 0.9189
+Global score: 0.8808761746648743

@@ -1,0 +1,39 @@
+KMeans: processed 6 iterations - inertia=30901.8616
+F1-scores for each classes:
+global_anderson          : 0.8824
+global_hackett           : 0.8889
+global_illusive_man      : 0.9714
+global_wreav             : 0.9000
+global_wrex              : 0.9474
+global_zaeed             : 0.9730
+hench_ashley             : 0.7429
+hench_edi                : 0.8485
+hench_garrus             : 0.8235
+hench_kaidan             : 0.8571
+hench_liara              : 0.9730
+hench_marine             : 0.8824
+hench_prothean           : 0.8649
+hench_tali               : 0.8421
+player_f                 : 0.7778
+player_m                 : 0.9189
+Global score: 0.8808761746648743
+    CLUSTER NAME     | EVAL SCORE
+  global_anderson    |   0.0831  
+   global_hackett    |   0.0730  
+global_illusive_man  |   0.0459  
+    global_wreav     |   0.0449  
+    global_wrex      |   0.0707  
+    global_zaeed     |   0.0301  
+    hench_ashley     |   0.0560  
+     hench_edi       |   0.2638  
+    hench_garrus     |   0.1530  
+    hench_kaidan     |   0.0816  
+    hench_liara      |   0.0066  
+    hench_marine     |   0.1172  
+   hench_prothean    |   0.0313  
+     hench_tali      |   0.0276  
+      player_f       |   0.1453  
+      player_m       |   0.0054  
+t-SNE: processed 999 iterations - KL_divergence=0.5011
+INFO: figure saved at exp/prot_zero_wofold/iv/1.0/teacher/val_val_kmeans.pdf
+program ended in 8.63 seconds
