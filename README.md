@@ -4,4 +4,8 @@ Source code and data for the SPECOM 2021 article “Assessing speaker independen
 
 mathias.quillot@univ-avignon.fr
 
+The author is writing its thesis and do not have enough time, but, if you need information or specific files, you can add issues. The author will take the time to answer to you.
+
+Thank you for your understanding.
+
 
